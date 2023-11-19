@@ -4,6 +4,6 @@
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Affaled&theme=great-gatsby&title_color=ff3068?">
 
-<p align="left" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Affaled&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="arunsridher" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Affaled&theme=great-gatsby&layout=donut&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 <a src="https://bitbucket.org/affaled/thefaun" />
