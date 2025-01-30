@@ -22,7 +22,7 @@ Cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNISINOS</b>, tenho
 </p>
 <br>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,vue,angular,react,tailwind,php,python,java,mysql" /><br>
+ <img src="https://skillicons.dev/icons?i=git,wordpress,html,css,sass,js,ts,vue,angular,react,tailwind,php,python,java,mysql" /><br>
 </div>
 <br>
 <div align="center">
