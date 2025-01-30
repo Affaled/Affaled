@@ -10,15 +10,15 @@
 </div>
 
 <p align="center">
-Sou um programador apaixonado pela área, constantemente em busca de novos conhecimentos e habilidades. Por isso, estou atualmente em busca da minha primeira oportunidade de estágio para desenvolver minhas habilidades e ser um programador cada vez melhor.
+Sou um programador apaixonado pela área, constantemente em busca de novos conhecimentos e habilidades, em busca de desenvolver minhas habilidades e ser um programador cada vez melhor.
 </p>
 
 <p align="center">
-Conhecendo programação há alguns anos, tenho experiências com desenvolvimento web front-end com tecnologias como <b>React</b>, <b>Vue</b>, <b>Angular</b>, <b>Javascript</b>, <b>HTML/CSS</b>, <b>Sass/Scss</b> e tive contato com linguagens como <b>Python</b>, <b>Java</b>, <b>PHP</b> e banco de dados com <b>MySQL</b>.
+Conhecendo programação há alguns anos, tenho experiência principalmente com desenvolvimento web front-end, usando tecnologias como </b>bAngular</b>, </b>JavaScript</b>, </b>HTML/CSS</b> e </b>SASS</b>, mas já estudei e explorei frameworks e linguagens como </b>React</b>, </b>VueJS</b>, </b>Java</b> e </b>Python</b>, e tive contato com </b>MySQL</b> e </b>PHP</b>. Além disso, tenho conhecimento em metodologias ágeis como </b>SCRUM</b> e </b>KANBAN</b>, versionamento de código com </b>GIT</b> e atualmente estou estudando </b>Azure</b> para Computação em nuvem e trabalhando com </b>Wordpress</b> para criação de landing pages.
 </p>
 
 <p align="center">
-Cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNISINOS</b>, tenho me aprofundado cada vez mais não só em linguagens de programação, como também em conceitos importantes como <b>lógica</b>, <b>matemática</b> e <b>engenharia de requisitos</b>, aperfeiçoando habilidades de extrema importância como minha capacidade de <b>resolução de problemas</b> e <b>planejamento de projeto.</b>
+Cursando </b>análise e desenvolvimento de sistemas</b> na </b>UNISINOS</b>, tenho me aprofundado cada vez mais não só em tecnologias, como também em </b>lógica da programação</b>, </b>arquitetura da informação</b> e </b>análise de requisitos</b>. Aperfeiçoando habilidades de extrema importância como minha capacidade de </b>resolução de problemas</b> e </b>planejamento de projeto</b>.
 </p>
 <br>
 <div align="center">
