@@ -14,11 +14,11 @@ Sou um programador apaixonado pela área, constantemente em busca de novos conhe
 </p>
 
 <p align="center">
-Conhecendo programação há alguns anos, tenho experiência principalmente com desenvolvimento web front-end, usando tecnologias como </b>bAngular</b>, </b>JavaScript</b>, </b>HTML/CSS</b> e </b>SASS</b>, mas já estudei e explorei frameworks e linguagens como </b>React</b>, </b>VueJS</b>, </b>Java</b> e </b>Python</b>, e tive contato com </b>MySQL</b> e </b>PHP</b>. Além disso, tenho conhecimento em metodologias ágeis como </b>SCRUM</b> e </b>KANBAN</b>, versionamento de código com </b>GIT</b> e atualmente estou estudando </b>Azure</b> para Computação em nuvem e trabalhando com </b>Wordpress</b> para criação de landing pages.
+Conhecendo programação há alguns anos, tenho experiência principalmente com desenvolvimento web front-end, usando tecnologias como <b>bAngular</b>, <b>JavaScript</b>, <b>HTML/CSS</b> e <b>SASS</b>, mas já estudei e explorei frameworks e linguagens como <b>React</b>, <b>VueJS</b>, <b>Java</b> e <b>Python</b>, e tive contato com <b>MySQL</b> e <b>PHP</b>. Além disso, tenho conhecimento em metodologias ágeis como <b>SCRUM</b> e <b>KANBAN</b>, versionamento de código com <b>GIT</b> e atualmente estou estudando <b>Azure</b> para Computação em nuvem e trabalhando com <b>Wordpress</b> para criação de landing pages.
 </p>
 
 <p align="center">
-Cursando </b>análise e desenvolvimento de sistemas</b> na </b>UNISINOS</b>, tenho me aprofundado cada vez mais não só em tecnologias, como também em </b>lógica da programação</b>, </b>arquitetura da informação</b> e </b>análise de requisitos</b>. Aperfeiçoando habilidades de extrema importância como minha capacidade de </b>resolução de problemas</b> e </b>planejamento de projeto</b>.
+Cursando <b>análise e desenvolvimento de sistemas</b> na <b>UNISINOS</b>, tenho me aprofundado cada vez mais não só em tecnologias, como também em <b>lógica da programação</b>, <b>arquitetura da informação</b> e <b>análise de requisitos</b>. Aperfeiçoando habilidades de extrema importância como minha capacidade de <b>resolução de problemas</b> e <b>planejamento de projeto</b>.
 </p>
 <br>
 <div align="center">
