@@ -28,6 +28,4 @@ Cursando <b>análise e desenvolvimento de sistemas</b> na <b>UNISINOS</b>, tenho
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Affaled&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affaled&theme=dark&hide_border=false&&layout=compact"/> <br/>
-    <img  height="170"  src="https://github-readme-streak-stats.herokuapp.com/?user=Affaled&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
-
 </div>
