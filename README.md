@@ -27,5 +27,5 @@ Cursando <b>análise e desenvolvimento de sistemas</b> na <b>UNISINOS</b>, tenho
 <br>
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Affaled&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affaled&theme=dark&hide_border=false&&layout=compact"/> <br/>
+    <img height="150em" src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&theme=dark&layout=compact"/> <br/>
 </div>
