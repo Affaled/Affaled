@@ -14,7 +14,7 @@ Sou um programador apaixonado pela área, constantemente em busca de novos conhe
 </p>
 
 <p align="center">
-Conhecendo programação há alguns anos, tenho experiência principalmente com desenvolvimento web front-end, usando tecnologias como <b>bAngular</b>, <b>JavaScript</b>, <b>HTML/CSS</b> e <b>SASS</b>, mas já estudei e explorei frameworks e linguagens como <b>React</b>, <b>VueJS</b>, <b>Java</b> e <b>Python</b>, e tive contato com <b>MySQL</b> e <b>PHP</b>. Além disso, tenho conhecimento em metodologias ágeis como <b>SCRUM</b> e <b>KANBAN</b>, versionamento de código com <b>GIT</b>. Atualmente estou trabalhando com a criação de websites e landingpages com tecnologias como <b>Liquid</b> e <b>Wordpress</b>.
+Conhecendo programação há alguns anos, tenho experiência principalmente com desenvolvimento web front-end, usando tecnologias como <b>Angular</b>, <b>JavaScript</b>, <b>HTML/CSS</b> e <b>SASS</b>, mas já estudei e explorei frameworks e linguagens como <b>React</b>, <b>VueJS</b>, <b>Java</b> e <b>Python</b>, e tive contato com <b>MySQL</b> e <b>PHP</b>. Além disso, tenho conhecimento em metodologias ágeis como <b>SCRUM</b> e <b>KANBAN</b>, versionamento de código com <b>GIT</b>. Atualmente estou trabalhando com a criação de websites e landingpages com tecnologias como <b>Liquid</b> e <b>Wordpress</b>.
 </p>
 
 <p align="center">
