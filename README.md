@@ -5,7 +5,38 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
 > Não sou um gênio. Nem um especialista. Só alguém tentando fazer sentido com o que aprende.
 
 ---
+<div align=center>
+  <table>
+    <tr>
+      <th>Versionamento e Repositórios</th>
+      <th><img src="https://skillicons.dev/icons?i=git,github,bitbucket" /></th>
+    </tr>
+    <tr>
+      <th>Tecnologias Front-End</th>
+      <th><img src="https://skillicons.dev/icons?i=html,css,javascript,jquery" /></th>
+    </tr>
+    <tr>
+      <th>Frameworks JS e Ferramentas</th>
+      <th><img src="https://skillicons.dev/icons?i=angular,vue" /></th>
+    </tr>
+    <tr>
+      <th>Supersets CSS e Ferramentas</th>
+      <th><img src="https://skillicons.dev/icons?i=sass,tailwind" /></th>
+    </tr>
+    <tr>
+      <th>Tecnologias Back-End</th>
+      <th><img src="https://skillicons.dev/icons?i=java" /></th>
+    </tr>
+    <tr>
+      <th>Ferramenta de Desenvolvimento</th>
+      <th><img src="https://skillicons.dev/icons?i=vscode,neovim,figma,wordpress,gamemakerstudio" /></th>
+    </tr>
+  </table>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact)
-https://pagespeed-insights.herokuapp.com?url=your_website_url
+---
+
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" style="height: 200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" style="height: 200px" />
+</div>
