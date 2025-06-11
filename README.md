@@ -37,6 +37,6 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
 ---
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" style="height: 200px" />
+    <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" style="height: 200px" />
     <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" style="height: 200px" />
 </div>
