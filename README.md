@@ -13,11 +13,11 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
     </tr>
     <tr>
       <th>Tecnologias Front-End</th>
-      <th><img src="https://skillicons.dev/icons?i=html,css,javascript" /></th>
+      <th><img src="https://skillicons.dev/icons?i=html,css,javascript,angular" /></th>
     </tr>
     <tr>
-      <th>Frameworks JS e Ferramentas</th>
-      <th><img src="https://skillicons.dev/icons?i=angular" /></th>
+      <th>Tecnologias Back-End</th>
+      <th><img src="https://skillicons.dev/icons?i=c#,java,mysql,php" /></th>
     </tr>
     <tr>
       <th>Supersets CSS e Ferramentas</th>
