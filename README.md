@@ -29,6 +29,10 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
           <th>Ferramenta de Desenvolvimento</th>
           <td><img src="https://skillicons.dev/icons?i=vscode,neovim,figma,wordpress" /></td>
         </tr>
+        <tr>
+          <th>Desenvolvimento de Jogos</th>
+          <td><img src="https://skillicons.dev/icons?i=unity" /></td>
+        </tr>
       </table>
     </td>
     <td valign="top" width="40%" align="center">
