@@ -9,23 +9,19 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
   <table>
     <tr>
       <th>Versionamento e Repositórios</th>
-      <th><img src="https://skillicons.dev/icons?i=git,github,bitbucket" /></th>
+      <th><img src="https://skillicons.dev/icons?i=git,github" /></th>
     </tr>
     <tr>
       <th>Tecnologias Front-End</th>
-      <th><img src="https://skillicons.dev/icons?i=html,css,javascript,jquery" /></th>
+      <th><img src="https://skillicons.dev/icons?i=html,css,javascript" /></th>
     </tr>
     <tr>
       <th>Frameworks JS e Ferramentas</th>
-      <th><img src="https://skillicons.dev/icons?i=angular,vue" /></th>
+      <th><img src="https://skillicons.dev/icons?i=angular" /></th>
     </tr>
     <tr>
       <th>Supersets CSS e Ferramentas</th>
       <th><img src="https://skillicons.dev/icons?i=sass,tailwind" /></th>
-    </tr>
-    <tr>
-      <th>Tecnologias Back-End</th>
-      <th><img src="https://skillicons.dev/icons?i=java" /></th>
     </tr>
     <tr>
       <th>Ferramenta de Desenvolvimento</th>
