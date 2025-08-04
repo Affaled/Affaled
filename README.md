@@ -21,7 +21,7 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
     </tr>
     <tr>
       <th>Supersets CSS e Ferramentas</th>
-      <th><img src="[https://skillicons.dev](https://skillicons.dev)/icons?i=sass,tailwind" /></th>
+      <th><img src="https://skillicons.dev/icons?i=sass,tailwind" /></th>
     </tr>
     <tr>
       <th>Ferramenta de Desenvolvimento</th>
