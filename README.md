@@ -36,8 +36,10 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
       </table>
     </td>
     <td valign="top" width="40%" align="center">
-      <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" width="100%" /><br/>
-      <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" width="100%" />
+      <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; height: 100%;">
+      <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" width="100%" height="50%" /><br/>
+      <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" width="100%" height="50%" />
+      </div>
     </td>
   </tr>
 </table>
