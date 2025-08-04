@@ -25,7 +25,7 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
     </tr>
     <tr>
       <th>Ferramenta de Desenvolvimento</th>
-      <th><img src="https://skillicons.dev/icons?i=vscode,neovim,figma,wordpress,gamemakerstudio" /></th>
+      <th><img src="https://skillicons.dev/icons?i=vscode,neovim,figma,wordpress" /></th>
     </tr>
   </table>
 </div>
