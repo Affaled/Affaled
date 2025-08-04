@@ -32,8 +32,9 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
 
 ---
 
-<p align="center">
-  <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" style="height: 200px; display: inline-block; margin-right: 10px;" />
-  <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" style="height: 200px; display: inline-block;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" height="160" />
+  <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" height="160" />
+</div>
+
 
