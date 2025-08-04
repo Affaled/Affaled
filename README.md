@@ -17,11 +17,11 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
     </tr>
     <tr>
       <th>Tecnologias Back-End</th>
-      <th><img src="https://skillicons.dev/icons?i=c#,java,mysql,php" /></th>
+      <th><img src="https://skillicons.dev/icons?i=cs,java,mysql,php" /></th>
     </tr>
     <tr>
       <th>Supersets CSS e Ferramentas</th>
-      <th><img src="https://skillicons.dev/icons?i=sass,tailwind" /></th>
+      <th><img src="[https://skillicons.dev](https://skillicons.dev)/icons?i=sass,tailwind" /></th>
     </tr>
     <tr>
       <th>Ferramenta de Desenvolvimento</th>
