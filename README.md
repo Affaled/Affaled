@@ -5,36 +5,35 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
 > Não sou um gênio. Nem um especialista. Só alguém tentando fazer sentido com o que aprende.
 
 ---
-<div align=center>
-  <table>
-    <tr>
-      <th>Versionamento e Repositórios</th>
-      <th><img src="https://skillicons.dev/icons?i=git,github" /></th>
-    </tr>
-    <tr>
-      <th>Tecnologias Front-End</th>
-      <th><img src="https://skillicons.dev/icons?i=html,css,javascript,angular" /></th>
-    </tr>
-    <tr>
-      <th>Tecnologias Back-End</th>
-      <th><img src="https://skillicons.dev/icons?i=cs,java,mysql,php" /></th>
-    </tr>
-    <tr>
-      <th>Supersets CSS e Ferramentas</th>
-      <th><img src="https://skillicons.dev/icons?i=sass,tailwind" /></th>
-    </tr>
-    <tr>
-      <th>Ferramenta de Desenvolvimento</th>
-      <th><img src="https://skillicons.dev/icons?i=vscode,neovim,figma,wordpress" /></th>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" height="160" />
-  <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" height="160" />
-</div>
-
-
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <table>
+        <tr>
+          <th>Versionamento e Repositórios</th>
+          <td><img src="https://skillicons.dev/icons?i=git,github" /></td>
+        </tr>
+        <tr>
+          <th>Tecnologias Front-End</th>
+          <td><img src="https://skillicons.dev/icons?i=html,css,javascript,angular" /></td>
+        </tr>
+        <tr>
+          <th>Tecnologias Back-End</th>
+          <td><img src="https://skillicons.dev/icons?i=cs,java,mysql,php" /></td>
+        </tr>
+        <tr>
+          <th>Supersets CSS e Ferramentas</th>
+          <td><img src="https://skillicons.dev/icons?i=sass,tailwind" /></td>
+        </tr>
+        <tr>
+          <th>Ferramenta de Desenvolvimento</th>
+          <td><img src="https://skillicons.dev/icons?i=vscode,neovim,figma,wordpress" /></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" width="100%" /><br/>
+      <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
