@@ -5,10 +5,7 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
 > Não sou um gênio. Nem um especialista. Só alguém tentando fazer sentido com o que aprende.
 
 ---
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <table>
+<table>
         <tr>
           <th>Versionamento e Repositórios</th>
           <td><img src="https://skillicons.dev/icons?i=git,github" /></td>
@@ -33,13 +30,4 @@ Não sei exatamente quando comecei a programar. Talvez tenha sido quando percebi
           <th>Desenvolvimento de Jogos</th>
           <td><img src="https://skillicons.dev/icons?i=unity" /></td>
         </tr>
-      </table>
-    </td>
-    <td valign="top" width="40%" align="center">
-      <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; height: 100%;">
-      <img src="https://languages-card.vercel.app/api/top-langs/?username=Affaled&layout=compact&theme=dark" width="100%" height="50%" /><br/>
-      <img src="https://languages-card.vercel.app/api?username=Affaled&show_icons=true&theme=dark&layout=compact" width="100%" height="50%" />
-      </div>
-    </td>
-  </tr>
 </table>
