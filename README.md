@@ -28,6 +28,6 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
 <h3>Onde me encontrar<h3>
-<a href="http://github.com/Affaled"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge" /></a>
-<a href="http://linkedin.com/in/lucas-affaled"><img src="https://img.shields.io/badge/LinkedIn-0854C1.svg?style=for-the-badge" /></a>
-<a href="mailto:affaledl@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge" /></a>
+<a href="http://github.com/Affaled" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge" /></a>
+<a href="http://linkedin.com/in/lucas-affaled" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0854C1.svg?style=for-the-badge" /></a>
+<a href="mailto:affaledl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge" /></a>
