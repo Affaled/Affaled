@@ -27,6 +27,13 @@
 ![JQuery](https://img.shields.io/badge/jquery-3CA0BC.svg?style=flat-square&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
+<h3>Meus ultimos projetos</h3>
+<ul>
+  <li>
+    <a href="https://wwww.korihome.com.br">Korihome</a><br><em>Ecommerce feito para a empresa Cytrus Design. Trabalhei no design, planejamento e na programação do frontend integrado com a Shopify utilizando Liquid, Js, Sass e Html.</em>
+  </li>
+</ul>
+
 <h3>Onde me encontrar<h3>
 <a href="http://github.com/Affaled" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge" /></a>
 <a href="http://linkedin.com/in/lucas-affaled" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0854C1.svg?style=for-the-badge" /></a>
