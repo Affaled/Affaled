@@ -30,7 +30,7 @@
 <h3>Meus ultimos projetos</h3>
 <ul>
   <li>
-    <a href="https://wwww.korihome.com.br">Korihome</a><br><em>Ecommerce feito para a empresa Cytrus Design. Trabalhei no design, planejamento e na programação do frontend integrado com a Shopify utilizando Liquid, Js, Sass e Html.</em>
+    <a href="https://wwww.korihome.com.br">KoriHome</a><br><em>Ecommerce feito para a empresa Cytrus Design. Trabalhei no design, planejamento e na programação do frontend integrado com a Shopify utilizando Liquid, Js, Sass e Html.</em>
   </li>
 </ul>
 
