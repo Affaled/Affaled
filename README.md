@@ -12,6 +12,7 @@
 ![React](https://img.shields.io/badge/React-45b8d8.svg?style=flat-square&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-0CCA56.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-2D689C.svg?style=flat-square&logo=Ionic&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF6433.svg?style=flat-square&logo=Java&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-C27BD8?style=flat-square&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-32BABF.svg?style=flat-square&logo=tailwind-css&logoColor=white)
