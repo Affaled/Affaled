@@ -27,7 +27,7 @@
 ![JQuery](https://img.shields.io/badge/jquery-3CA0BC.svg?style=flat-square&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
-<h3>Meus ultimos projetos</h3>
+<h3>Meus ultimos trabalhos</h3>
 <ul>
   <li>
     <a href="https://wwww.korihome.com.br">KoriHome</a><br><em>Ecommerce feito para a empresa Cytrus Design. Trabalhei no design, planejamento e na programação do frontend integrado com a Shopify utilizando Liquid, Js, Sass e Html.</em>
